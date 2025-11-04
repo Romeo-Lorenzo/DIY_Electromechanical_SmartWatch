@@ -25,8 +25,11 @@ Driven by a PCF2003 chip from NXP as well as an STM32WB for bluetooth capability
  
   ### Mecanical:
   - Onshape designed 36mm watch case with high water resistance in mind, a water tight push button to control subdial and STM32 ON time.
-<img width="400" height="435" alt="Watch assembly dial view" src="https://github.com/user-attachments/assets/de6b7582-4309-4838-878d-966d64b8fcb6" />
-<img width="400" height="438" alt="Watch assembly caseback view" src="https://github.com/user-attachments/assets/ed651ece-d9c2-4e03-b735-87945a2d5122" />
+<img width="300" height="300" alt="36mm Watch" src="https://github.com/user-attachments/assets/9d7af323-d3b8-4e70-af7a-c2b6f5cbc723" />
+<img width="300" height="300" alt="36mm Watch Front" src="https://github.com/user-attachments/assets/97586367-8ad1-4e33-b455-0be09d7bcf9f" />
+<img width="300" height="300" alt="36mm Watch pcb angle rear" src="https://github.com/user-attachments/assets/f89747ea-07de-45ba-bea7-bdac2633e431" />
+<img width="300" height="300" alt="36mm Watch Fornt mounted" src="https://github.com/user-attachments/assets/9fd1f594-4f48-4b3b-88ed-fbcb0ad3bd4a" />
+<img width="420" height="300" alt="36mm Watch rear side mounted" src="https://github.com/user-attachments/assets/524306a9-8464-4572-9ad1-8b69763388f2" />
 
 Note that the Miyota 2035 movements will have to be modified, taking it apart and filing away the excess material on the bottom holding plate for the subdial movement is an easy fit and a tutorial on how to take apart and prepare the movements will be released.
 The case is not yet finished but I estimate a 5 atm water tight watch, tolerances for CNC machinig will have to be tested. Crown will be a screw-in watertight type, a silicon membrane will ensure watertightness of the push button all the while allowing the inside barometer to read pressure, especially fun underwater.
